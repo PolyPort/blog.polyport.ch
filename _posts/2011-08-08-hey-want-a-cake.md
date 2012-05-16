@@ -14,18 +14,19 @@ It's so hard to give things to people for free... even if you have a basket of y
 Even harder:try to engage people in a conversation! 
 
 Our first experience with customer surveys last month was really a life lesson learned:
+
 1. don't try to engage customers right behind the checkout
--->if the service customer manager tells you to, try to convince him otherwise:people will just RUN
+-->if the service customer manager tells you to, try to convince him otherwise: people will just RUN
 2. fill up their free time in the queue or at the bus stop = MUCH BETTER
 
 On average you might get
--1 person to talk to you and give sensible answer every 5 minutes
+* 1 person to talk to you and give sensible answer every 5 minutes
 = 12 people per hour
 = 6 hours - (1 hour of breaks and lunch) = ca. 60 people in a day!
 
 So please,
 BE NICE whenever someone tries to ask you some questions,
-HIS JOB is dam HARD
+HIS JOB is damn HARD.
 
 
 
