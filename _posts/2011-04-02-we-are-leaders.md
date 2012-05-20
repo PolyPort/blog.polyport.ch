@@ -10,10 +10,10 @@ categories:
 - Success stories
 ---
 
-YAY.... We are Venture Leaders 2011.
+YAY!! We are Venture Leaders 2011.
 
 PolyPort was just selected as one of top 20 StartUps to represent the Swiss StartUp Scene in a 10 day Business Development Program in Boston.
 
 So see you in Boston in June...
 
-[http://bit.ly/gIEZvV](http://bit.ly/gIEZvV)
+[Winners venture leaders 2011](http://www.venturelab.ch/index.cfm?CFID=34724152&CFTOKEN=14471191&page=125810)

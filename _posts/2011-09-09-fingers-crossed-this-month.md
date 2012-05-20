@@ -12,6 +12,4 @@ categories:
 PolyPort can get close to 100.000 CHF only in September!
 
 OK, we don't have the money quite yet, but we have reasonable chances. Among others we are participating
-@AXA Innovation Award &
-@Venture Kick.
-Keep your fingers crossed!
+@AXA Innovation Award & @Venture Kick. Keep your fingers crossed!

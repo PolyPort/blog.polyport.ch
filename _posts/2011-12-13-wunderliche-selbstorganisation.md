@@ -15,7 +15,8 @@ Ortoloco, die regionale Gartenkooperative, pachtet ein Feld bei Spreitenbach, au
 
 Hierbei haben die Mitglieder auch ihr eigenes Verteilsystem entwickelt; Produkte können direkt vor Ort abgeholt werden und werden teilweise auch zu verschiedenen Depots in der Stadt geliefert.
 
-[![](http://polyport.files.wordpress.com/2011/12/verteilsystem.png?w=300)](http://polyport.files.wordpress.com/2011/12/verteilsystem.png)
+
+![](/img/verteilsystem.png)
 
 Das wäre doch eine wunderschöne PolyPort Anwendung?
 

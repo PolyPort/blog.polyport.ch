@@ -17,7 +17,8 @@ Zu guter letzt, gabs noch ein kurzes Interview vom Team im HUB Zurich, unserem A
 
 Der ganze Aufwand der 1Mann/1Frau Fernsehcrew - 6 Stunden unterwegs + schneiden + editieren - wird letztlich eine 5 Minuten Doku. Wahnsinn wie viel Zeit hinter jeder Minute im Fernsehn steckt und wie viele Crews da jeden Tag durch die Gegend flitzen, um das möglich zu machen.
 
-[![](http://polyport.files.wordpress.com/2011/12/sf_lowres.png)](http://polyport.files.wordpress.com/2011/12/sf_lowres.png)
+
+![Wir kommen ins Fernsehen](/img/sf_lowres.png "Wir kommen ins Fernsehen")
 
 Wir freuen uns auf die Ausstrahlung!!
 

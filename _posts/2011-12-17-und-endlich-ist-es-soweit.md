@@ -11,6 +11,5 @@ categories:
 
 Was für ein Weihnachtsgeschenk - Stella und PolyPort im Fernsehen
 
-[youtube http://www.youtube.com/watch?v=yRjRU7KSRL4&w=640&h=360]
-
+<iframe width="560" height="315" src="http://www.youtube.com/embed/yRjRU7KSRL4" frameborder="0" allowfullscreen></iframe>
 

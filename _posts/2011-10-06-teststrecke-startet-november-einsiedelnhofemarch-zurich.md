@@ -11,15 +11,11 @@ categories:
 
 ## **Reisen Sie zwischen Einsiedeln/Höfe/March und Zürich?**
 
-
-
-
 ### Die PolyPort Teststrecke startet im November: Einsiedeln/Höfe/March <--> Zürich
 
 
 
-
-Verpassen Sie nicht die Chance, Teil des ersten PolyPort Piloten zu werden. Schreiben Sie Logistikgeschichte und helfen Sie Genusstrainer, [Freddy Christandl](http://www.christandl.ch/), eine absolut nachhaltige Logistikkette für seine [berühmten Bergkartoffeln](http://www.christandl.ch/bergkartoffeln.html) aufzubauen.
+Verpassen Sie nicht die Chance, Teil des ersten PolyPort Piloten zu werden. Schreiben Sie Logistikgeschichte und helfen Sie Genusstrainer, [Freddy Christandl](http://www.christandl.ch/), eine absolut nachhaltige Logistikkette für seine [berühmten Bergkartoffeln](http://www.christandl.ch/bergkartoffeln.html) aufzubauen.
 
 
 
@@ -32,11 +28,12 @@ Verpassen Sie nicht die Chance, Teil des ersten PolyPort Piloten zu werden. Schr
 
 
 
-Tragen Sie sich jetzt  für den[ Piloten](www.kartoffeltaxi.ch) ein, damit Sie informiert werden, wann der nächste Transport zu Ihrer Route passt. **Für die Mitnahme eines Sacks Kartoffeln erhalten Sie mindestens 10CHF und wir regeln den CO2 Ausgleich für Ihre klimaneutrale Fahrt über myclimate.**
+Tragen Sie sich jetzt für den[ Piloten](http://www.kartoffeltaxi.ch) ein, damit Sie informiert werden, wann der nächste Transport zu Ihrer Route passt. **Für die Mitnahme eines Sacks Kartoffeln erhalten Sie mindestens 10CHF und wir regeln den CO2 Ausgleich für Ihre klimaneutrale Fahrt über myclimate.**
 
 Wir freuen uns,
+
 Ihr PolyPort Team
 
-[JETZT FÜR UNSEREN PILOTEN "KARTOFFELTAXI"EIN.](www.kartoffeltaxi.ch)
+[JETZT FÜR UNSEREN PILOTEN "KARTOFFELTAXI" EIN.](http://www.kartoffeltaxi.ch)
 
-[caption id="attachment_199" align="aligncenter" width="500" caption="Kartoffelvielfalt"][![](http://polyport.files.wordpress.com/2011/10/kartoffel_vielfalt2.jpg)](http://polyport.files.wordpress.com/2011/10/kartoffel_vielfalt2.jpg)[/caption]
+![Kartoffelvielfalt](/img/kartoffel_vielfalt2.jpg "Kartoffelvielfalt")

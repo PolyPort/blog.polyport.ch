@@ -19,6 +19,6 @@ We will post the video soon :)
 
 The winner of the award will be announced September 23rd.
 
-[![](http://polyport.files.wordpress.com/2011/08/2011-08-25-14-38-24.jpg?w=300)](http://polyport.files.wordpress.com/2011/08/2011-08-25-14-38-24.jpg)
+![](/img/2011-08-25-14-38-24.jpg)
 
-[![](http://polyport.files.wordpress.com/2011/08/2011-08-25-14-26-38.jpg?w=300)](http://polyport.files.wordpress.com/2011/08/2011-08-25-14-26-38.jpg)
+![](/img/2011-08-25-14-26-38.jpg)

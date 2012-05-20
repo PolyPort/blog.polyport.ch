@@ -1,7 +1,13 @@
 body {
   padding-top: 60px;
   padding-bottom: 40px;
+  font-family: Ubuntu, sans-serif;
 }
-.sidebar-nav {
-  padding: 9px 0;
+
+p {
+   font-family: Ubuntu, sans-serif;
+}
+
+post#h1 {
+  font-size: 20px;
 }

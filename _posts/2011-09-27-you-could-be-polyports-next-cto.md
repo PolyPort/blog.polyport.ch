@@ -12,4 +12,4 @@ categories:
 **PolyPort looking for CTO & Cofounder**
 
 PolyPort wants to redefine logistics and transport by crowd sourcing your everyday travel movements for shipping purposes via a web and mobile app.
-You are enthusiastic & excited about real time and location based apps. Experienced in web development, databases, development of algorithms & have excellent Java skills. http://bit.ly/rtKQZ6
+You are enthusiastic & excited about real time and location based apps. Experienced in web development, databases, development of algorithms & have excellent Java skills. [http://bit.ly/rtKQZ6](http://bit.ly/rtKQZ6)
